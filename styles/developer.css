@@ -86,6 +86,26 @@
     margin: 50px 150px;
 }  
 
+/* development section style start  */
+.development-section{
+    background-color: rgba(13, 19, 33, 0.02);
+    padding:80px 98px;
+}
+
+.dev-title{
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.dev-subtitle{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin: 24px 0 48px 0;
+}
+/* development section style end  */
 /* inspired section style start  */
 
 .inspiration-content{
@@ -127,10 +147,6 @@
 /* inspired section style end  */
 
 /* skill section styles start  */
-.skill-section{
-
-}
-
 .current-target{
     display: flex;
     align-items: center;
@@ -173,8 +189,6 @@
     width: 40%;
     padding: 40px;
     border-radius: 8px;
-    
-    
 }
 
 .item-title{
