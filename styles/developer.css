@@ -33,6 +33,7 @@
 
 .primary-text-color{
     color: rgb(13, 19, 33);
+    
 }
 
 /* nav section style end  */
@@ -187,10 +188,15 @@ background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0)
 /* inspired section style end  */
 
 /* skill section styles start  */
+
+.skill-section{
+    margin-bottom: 100px;
+}
 .current-target{
     display: flex;
     align-items: center;
     flex-direction: column;
+    
 
 }
 
